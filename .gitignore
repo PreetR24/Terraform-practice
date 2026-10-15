@@ -1,0 +1,7 @@
+# Terraform working directory and downloaded providers
+**/.terraform/*
+**/hashicorp/*
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
